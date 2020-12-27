@@ -1,0 +1,1079 @@
+<!-- PREFIX -->
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dbp="http://dbpedia.org/property/">
+
+<!-- OWL Header -->
+<owl:Ontology rdf:about="https://id.m.wikipedia.org/wiki/Indonesia">
+    <dc:title>Negara Kesatuan Republik Indonesia</dc:title>
+    <dc:description>Indonesia adalah negara kepulauan terbesar di dunia yang terletak di Asia Tenggara</dc:description>
+</owl:Ontology>
+
+<!-- OWL Class Definition - Indonesia -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Indonesia">
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sumatera -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sumatera">    
+    <!-- Sumatera is subclassification of Indonesia -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Indonesia"/>
+    <dc:title>Pulau Sumatera</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Jawa -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Jawa">    
+    <!-- Jawa is subclassification of Indonesia -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Indonesia"/>
+    <dc:title>Pulau Jawa</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kalimantan -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kalimantan">    
+    <!-- Kalimantan is subclassification of Indonesia -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Indonesia"/>
+    <dc:title>Pulau Kalimantan</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sulawesi -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sulawesi">    
+    <!-- Sulawesi is subclassification of Indonesia -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Indonesia"/>
+    <dc:title>Pulau Sulawesi</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Papua -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Papua">    
+    <!-- Papua is subclassification of Indonesia -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Indonesia"/>
+    <dc:title>Pulau Papua</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kepulauan Maluku -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kepulauan_Maluku">    
+    <!-- Kepulauan Maluku is subclassification of Indonesia -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Indonesia"/>
+    <dc:title>Kepulauan Maluku</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Aceh -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Aceh">    
+    <!-- Aceh is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Aceh</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Bengkulu -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Bengkulu">    
+    <!-- Bengkulu is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Bengkulu</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Jambi -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Jambi">    
+    <!-- Jambi is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Jambi</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Lampung -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Lampung">    
+    <!-- Lampung is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Lampung</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Riau -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Riau">    
+    <!-- Riau is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Riau</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sumatera Barat -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sumatera_Barat">    
+    <!-- Sumatera Barat is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Sumatera Barat</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sumatera Utara -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sumatera_Utara">    
+    <!-- Sumatera Utara is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Sumatera Utara</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sumatera Selatan -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sumatera_Selatan">    
+    <!-- Sumatera Selatan is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Sumatera Selatan</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kepulauan Bangka Belitung -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kepulauan_Bangka_Belitung">    
+    <!-- Kepulauan Bangka Belitung is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Kepulauan Bangka Belitung</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kepulauan Riau -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kepulauan_Riau">    
+    <!-- Kepulauan Riau is subclassification of Sumatera -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera"/>
+    <dc:title>Kepulauan Riau</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Jawa Barat -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Jawa_Barat">    
+    <!-- Jawa Barat is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Jawa Barat</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Jawa Tengah-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Jawa_Tengah">    
+    <!-- Jawa Tengah is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Jawa Tengah</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Jawa Timur -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Jawa_Timur">    
+    <!-- Jawa Timur is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Jawa Timur</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Jakarta -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Daerah_Khusus_Ibukota_Jakarta">   
+    <!-- Jakarta is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Daerah Khusus Ibukota Jakarta</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Yogyakarta -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Daerah_Istimewa_Yogyakarta">   
+    <!-- Yogyakarta is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Daerah Istimewa Yogyakarta</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Banten -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Banten">   
+    <!-- Banten is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Banten</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Bali -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Bali">   
+    <!-- Bali is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Bali</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Nusa Tenggara Barat -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Nusa_Tenggara_Barat">   
+    <!-- Nusa Tenggara Barat is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Nusa Tenggara Barat</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Nusa Tenggara Timur -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Nusa_Tenggara_Timur">   
+    <!-- Nusa Tenggara Timur is subclassification of Jawa -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa"/>
+    <dc:title>Nusa Tenggara Timur</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kalimantan Barat -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kalimantan_Barat">   
+    <!-- Kalimantan Barat is subclassification of Kalimantan -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan"/>
+    <dc:title>Kalimantan Barat</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kalimantan Tengah -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kalimantan_Tengah">   
+    <!-- Kalimantan Tengah is subclassification of Kalimantan -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan"/>
+    <dc:title>Kalimantan Tengah</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kalimantan Selatan -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kalimantan_Selatan">   
+    <!-- Kalimantan Selatan is subclassification of Kalimantan -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan"/>
+    <dc:title>Kalimantan Selatan</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kalimantan Timur -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kalimantan_Timur">   
+    <!-- Kalimantan Timur is subclassification of Kalimantan -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan"/>
+    <dc:title>Kalimantan Timur</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kalimantan Utara -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kalimantan_Utara">   
+    <!-- Kalimantan Utara is subclassification of Kalimantan -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan"/>
+    <dc:title>Kalimantan Utara</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sulawesi Utara -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sulawesi_Utara">   
+    <!-- Sulawesi Utara is subclassification of Sulawesi -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi"/>
+    <dc:title>Sulawesi Utara</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Gorontalo -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Gorontalo">   
+    <!-- Gorontalo is subclassification of Sulawesi -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi"/>
+    <dc:title>Gorontalo</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sulawesi Tengah -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sulawesi_Tengah">   
+    <!-- Sulawesi tengah is subclassification of Sulawesi -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi"/>
+    <dc:title>Sulawesi Tengah</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sulawesi Barat -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sulawesi_Barat">   
+    <!-- Sulawesi Barat is subclassification of Sulawesi -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi"/>
+    <dc:title>Sulawesi Barat</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sulawesi Selatan -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sulawesi_Selatan">   
+    <!-- Sulawesi Selatan is subclassification of Sulawesi -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi"/>
+    <dc:title>Sulawesi Selatan</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sulawesi Tenggara -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sulawesi_Tenggara">   
+    <!-- Sulawesi Tenggara is subclassification of Sulawesi -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi"/>
+    <dc:title>Sulawesi Tenggara</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Papua -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Papua">   
+    <!-- Papua is subclassification of Papua -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Papua"/>
+    <dc:title>Papua</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Papua Barat -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Papua_Barat">   
+    <!-- Papua Barat is subclassification of Papua -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Papua_Barat"/>
+    <dc:title>Papua Barat</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Maluku -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Maluku">   
+    <!-- Maluku is subclassification of Kepulauan_Maluku -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kepulauan_Maluku"/>
+    <dc:title>Maluku</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Maluku Utara -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Maluku">   
+    <!-- Maluku Utara is subclassification of Kepulauan_Maluku -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kepulauan_Maluku"/>
+    <dc:title>Maluku Utara</dc:title>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sisingamangaraja XII -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sisingamangaraja_XII">   
+    <!-- Sisingamangaraja XII is subclassification of Sumatera Utara -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera_Utara"/>
+    <foaf:givenName>Sisingamangaraja XII</foaf:givenName>
+    <foaf:nick>Patuan Bosar Ompu Pulo Batu</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Bakara, 18 Februari 1845</dbp:birthDate>
+    <dc:dateAccepted>9 November 1961</dc:dateAccepted>
+    <dbp:deathDate>Dairi, 17 Juni 1907</dbp:deathDate>
+    <dc:description>Sisingamangaraja XII adalah seorang raja di negeti Toba, Sumatera Utara yang juga merupakan seorang pejuang yang berperang melawan Belanda. Beliau adalah keturunan seorang pejabat yang ditunjuk oleh raja Pagaruyung yang sangat berkuasa saat itu, yang datang berkeliling Sumatera Utara untuk menempatkan pejabat-pejabatnya. Beliau meninggal dalam sebuah pertempuran dengan Belanda di pinggir bukit Lae Sibulbulan, di suatu desa yang namanya Si Onom Hudon, di perbatasan Kabupaten Tapanuli Utara dan Kabupaten Dairi yang sekarang.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Adam Malik -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Adam_Malik">   
+    <!-- Adam Malik is subclassification of Sumatera Utara -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera_Utara"/>
+    <foaf:givenName>Haji Adam Malik Batubara</foaf:givenName>
+    <foaf:nick>Adam Malik</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Pematang Siantar, 22 Juli 1917</dbp:birthDate>
+    <dc:dateAccepted>6 November 1998</dc:dateAccepted>
+    <dbp:deathDate>Bandung, 5 September 1984</dbp:deathDate>
+    <dc:description>Adam Malik adalah seorang politikus Indonesia dan mantan jurnalis yang menjabat sebagai wakil presiden ketiga. Sebelumnya, ia menjabat sebagai ketua parlemen, menteri luar negeri, presiden majelis umum perserikatan bangsa-bangsa, dan jurnalis. Beliau merupakan anak ketiga dari sepuluh bersaudara dari pasangan Abdul Malik Batubara dan Salamah Lubis. Ia meninggal karena kanker liver dan semua jasa-jasanya dikenang hinggga saat ini, hingga di bangun museum adam malik. </dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Teungku Chik di Tiro -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Teungku_Chik_di_Tiro">   
+    <!-- Teungku Chik di Tiro is subclassification of Aceh -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Aceh"/>
+    <foaf:givenName>Teungku Chik di Tiro Muhammad Saman</foaf:givenName>
+    <foaf:nick>Teungku Chik di Tiro</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Tiro, Pidie, Aceh, 1 Januari 1836</dbp:birthDate>
+    <dc:dateAccepted>6 November 1973</dc:dateAccepted>
+    <dbp:deathDate>Aneuk Galong, Aceh Besar, 31 Januari 1891</dbp:deathDate>
+    <dc:description>Teungku Cik di Tiro adalah seorang pahlawan kemerdekaan besar dari Pedir. Dengan perang sabilnya, satu persatu benteng Belanda dapat direbut. Begitu pula dengan wilayah-wilayah yang selama ini jatuh ke tangan pasukan Belanda. Beliau meninggal karena diracuni oleh pasukan Belanda di benteng Aneuk Galong. Ia adalah seorang tokoh yang kembali menggairahkan perang Aceh pada tahun 1881 setelah menurunya kegiatan penyerangan terhadap Belanda.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Cut Nyak Dhien -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Cut_Nyak_Dhien">   
+    <!-- Cut Nyak Dhien is subclassification of Aceh -->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Aceh"/>
+    <foaf:givenName>Tjoet Nja' Dhien</foaf:givenName>
+    <foaf:nick>Cut Nyak Dhien</foaf:nick>
+    <foaf:gender>Perempuan</foaf:gender>
+    <dbp:birthDate>Lampadang, Aceh, 1848</dbp:birthDate>
+    <dc:dateAccepted>2 Mei 1964</dc:dateAccepted>
+    <dbp:deathDate>Sumedang, Hindia Belanda, 6 November 1908</dbp:deathDate>
+    <dc:description>Cut Nyak Dhien menikah dengan Teuku Umar pada tahun 1880 setelah ia dijanjikan dapat ikut turun di medan perang jika menerima lamaran tersebut. Namun, pada tanggal 11 Februari 1899, Teuku Umar gugur, sehingga Cut Nyak Dhien harus berjuang sendirian di pedalaman Meulaboh bersama pasukan kecilnya. Usia Cut Nyak Dhien yang semakin tua serta kondisi tubuh yang tidak sehat membuat satu pasukannya yang bernama Pang Laot merasa iba dan melaporkan keberadaannya. Ia akhirnya ditangkap dan dibawa ke Banda Aceh dan dirawat hingga penyakitnya sembuh. Karena keberadaannya yang dianggap masih memberikan pengaruh yang kuat terhadap perlawanan rakyat Aceh, maka ia pun ditangkap oleh Belanda dan diasingkan di Sumedang hingga akhir hidupnya.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Imam Bonjol -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Tuanku_Imam_Bonjol">   
+    <!-- Imam Bonjol is subclassification of Sumatera Barat-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera_Barat"/>
+    <foaf:givenName>Muhammad Syahab</foaf:givenName>
+    <foaf:nick>Tuanku Imam Bonjol</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Bonjol, Luhak Agam, Pagarayung 1772</dbp:birthDate>
+    <dc:dateAccepted>6 November 1973</dc:dateAccepted>
+    <dbp:deathDate>Lotta, Pineleng, Minahasa, 6 November 1864</dbp:deathDate>
+    <dc:description>Muhammad Syahab adalah seorang alim ulama yang berasal dari Sungai Rimbang, Suliki, Lima Puluh Kota. Sebagai ulama dan pemimpin masyarakat setempat, Muhammad Syahab memiliki beberapa gelar yaitu Peto syarif, Malin Basa, dan Tuanku Imam. Ia kemudian ditunjuk sebagai seorang imam(pemimpin) bagi kaum Padri di Bonjol, yang akhirnya dikenal sebagai Tuanku Imam Bonjol. Beliau meninggal di tempat pengasingan setelah menyerah atas peperangan terhadap Belanda.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sutan Syahrir -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sutan_Syahrir">   
+    <!-- Sutan Syahrir is subclassification of Sumatera Barat-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera_Barat"/>
+    <foaf:givenName>Mr. Soetan Sjahrir</foaf:givenName>
+    <foaf:nick>Sutan Syahrir</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Padang Panjang, 5 Maret 1909</dbp:birthDate>
+    <dc:dateAccepted>9 April 1966</dc:dateAccepted>
+    <dbp:deathDate>Zurich, Swiss, 9 April 1966</dbp:deathDate>
+    <dc:description>Sutan Syahrir adalah seorang intelektual, perintis, dan revolusioner kemerdekaan Indonesia. Setelah Indonesia mereka, ia menjadi politikus dan perdana menteri pertama di Indonesia pada tahun 1945 hingga 1947. Beliau memimpin pasukan untuk melawan rakyat Jepang dalam gerakan bawah tanak, menyusun kekuatan subjektif, sambil menunggu perkembangan situasi objektif dan tibanya saat-saat psikologis untuk merebut kekuasaan dan kemerdekaan. Ia juga yang mendesak Soekarno Hatta bersama para para pemuda lainnya untuk segera memproklamasikan kemerdekaan Indonesia. Ia akhirnya meninggal dalam pengasingan sebagai tawanan politik dan dimakamkan di TMP Kalibata, Jakarta.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Tuanku Tambunsai -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Tuanku_Tambunsai">   
+    <!-- Tuanku Tambunsai is subclassification of Riau-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Riau"/>
+    <foaf:givenName>Muhammad Saleh</foaf:givenName>
+    <foaf:nick>Tuanku Tambunsai</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Dalu - Dalu, Tambunsai, Rokan Hulu, 5 November 1784</dbp:birthDate>
+    <dc:dateAccepted>1995</dc:dateAccepted>
+    <dbp:deathDate>Negeri Sembilan, Malaya Britania, 12 November 1882</dbp:deathDate>
+    <dc:description>Tuanku Tambunsai adalah seorang tokoh Paderi terkemuka yang semula memiliki nama masa kecil Muhammad Saleh dan setelah pulang haji dipanggilkan prang Tuanku Haji Muhammad Saleh. Beliau memimpin pasukan Dalu-Dalu untuk berjuang melawan Belanda. Dalam kurun waktu 15 tahun, ia cukup merepotkan Belanda hingga diberi gelar "De Padrische Tijger van Rokan" (Harimau Paderi dari Rokan) karena amat sulit dikalahkan, tidak pernah menyerah, dan tidak mau berdamai dengan Belanda.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Syarif Kasim II -->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Syarif_Kasim_II_dari_Siak">   
+    <!-- Syarif Kasim II is subclassification of Riau-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Riau"/>
+    <foaf:givenName>Sultan Syarif Kasim II</foaf:givenName>
+    <foaf:nick>Syarif Kasim</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Siak Sri Indrapura, Riau, 1 Desember 1893</dbp:birthDate>
+    <dc:dateAccepted>6 November 1998</dc:dateAccepted>
+    <dbp:deathDate>Rumbai, Pekanbaru, Riau, 23 April 1968</dbp:deathDate>
+    <dc:description>Syarif Kasim adalah sultan ke-12 Kesultanan Siak. Ia dinobatkan sebagai sultan pada umur 21 tahung menggantikan ayahnya Sultan Syarif Hasyim. Ia merupakan seorang pendukunf kemerdekaan Indonesia. Tidak lama setelah proklamasi dia menyatakan Kesultanan Siak sebagai bagian wilayah Indonesia, dan dia menyumbang harta kekayaannya sebanyak 13 jita gulden untuk pemerintah republik. Bersama sultan Serdang beliau juga berusaha membujuk raja-raja di Sumatera Timur lainnya untuk turut memihak Republik. Namanya kini diabadikan untuk Bandar Udara Internasional Sultan Syarif Kasim II di Pekanbaru.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Mahmud Syah III-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Mahmud_Syah_III_dari_Johor">   
+    <!-- Mahmud Syah III is subclassification of Kepulauan Riau-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kepulauan_Riau"/>
+    <foaf:givenName>Paduka Sri al-Wakil al-Imam Sultan Mahmud Riayat Syah Zilullah fil-Alam Khalifat ul-Muminin ibni al-Marhun Sultan Abdul Jalil Syah</foaf:givenName>
+    <foaf:nick>Sultan Mahmud Syah III</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Hulu Riau, Tanjung Pinang, 24 Maret 1756</dbp:birthDate>
+    <dc:dateAccepted>9 November 2017</dc:dateAccepted>
+    <dbp:deathDate>Daik, Lingga, 12 Januari 1811</dbp:deathDate>
+    <dc:description>Sultan Mahmud Syah adlah anak bungsu dari sultan Johor ke-13, Abdul Jalil Muazzam Syah dengan istri keduanya, Tengku Puteh binti Daeng Chelak. Ia naik tahta pada usia 14 tahun menggantikan kakaknya, Ahmad Riayat Syah. Beliau berhasil mengalahkan pasukan Belanda dan mempertahankan provinsi Kepulauan Riau hingga seekor Holanda pun tiada lahi tinggal di Negeri Riau setelah diserang oleh pasukan dan taktik perangnya.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Raja Ali Haji-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Raja_Ali_Haji_bin_Raja_Haji_Ahmad">   
+    <!-- Raja Ali Haji is subclassification of Kepulauan Riau-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kepulauan_Riau"/>
+    <foaf:givenName>Raja Ali Haji bin Raja Haji Ahmad</foaf:givenName>
+    <foaf:nick>Raja Ali Haji</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Selangor, 1808</dbp:birthDate>
+    <dc:dateAccepted>10 November 2004</dc:dateAccepted>
+    <dbp:deathDate>Pulau Penyengat, 1873</dbp:deathDate>
+    <dc:description>Raja Ali Haji adalah seorang ulama, sejarahwan, dan pujangga abad ke 19 keturunan Bugis dan Melayu. Beliau terkenal sebagai pencatat pertama dasar-dasar tata bahasa Melayu lewat buku Pedoman Bahasa; buku yang menjadi standar bahasa Melayu. Beliau memiliki banyak karya-karya yang terkenal seperti buku, puisi, dan lain-lain. Karena beliau merupakan pujangga kerajaan yang gemar menulis dan mengajar serta memiliki banyak karya dan pencetus pertama bahasa Melayu, ia kemudian diberi gelar Bapak Bahasa</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Kolonel abundjani-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Kolonel_abundjani">   
+    <!-- Kolonel Abundjani is subclassification of Jambi-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jambi"/>
+    <foaf:givenName>Letnan Kolonel Abundjani</foaf:givenName>
+    <foaf:nick>Abundjani</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Batang Asai, Sarolangun-Bangko, 24 Obtober 1918</dbp:birthDate>
+    <dc:dateAccepted>1977</dc:dateAccepted>
+    <dbp:deathDate>Jakarta 1980</dbp:deathDate>
+    <dc:description>Kolonel Abundjani adalah seorang pejuang yang merintis terbentuknya Angkatan Pemuda Indonesia(API) yang merupakan bagian dari Badan Keamanan Rakyat (BKR). Peran Abundjani dalam menunjang perjuangan di masanya adalah membentuk Badan Keuangan Perjuangan yang memobilisasi pedagang karet ke Singapura dengan menyisihkan 10% keuntungan untuk perjuangan. Usaha tersebut selain dapat membantu perjuangan Pemerintah Pusat, sewa-beli Pesawat Ctalina (RI O5) sebagai pesawat penghubung ke Sumatera Barat maupun Yogyakarta dalam jaringan pemerintahan, juga memasok perlengkapan dan perbekalan pasukan dengan sistem barter komoditi lada, vanili, karet, dan lain-lain. Kemudian peran kepemimpinan Letnan Kolonel Abundjani adalah memindahkan pusat pemerintahan dan pertahanan militer saat serangan Belansa pada 29 Desember 1948.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Thaha Syaifuddin-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Thaha_Syaifuddin_dari_Jambi">   
+    <!-- Thaha Syaifuddin is subclassification of Jambi-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jambi"/>
+    <foaf:givenName>Raden Thaha Ningrat</foaf:givenName>
+    <foaf:nick>Sultan Thaha Syaifuddin</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Keraton Tanah, 1816</dbp:birthDate>
+    <dc:dateAccepted>1977</dc:dateAccepted>
+    <dbp:deathDate>Betung Bedarah, Muara Tebo, 26 April 1904</dbp:deathDate>
+    <dc:description>Sultan Thaha Syaifuddin adalah seorang sultan terakhir dari kesultanan Jambi yang merupakan bangsawan yang rendah hati dan suka bergaul dengan rakyat biasa. Pada pertempuran di sungai Aro itu jejak Sultan Thaha tidak diketahui lagi oleh rakyat umum, kecuali oleh pembantunya yang sangat dekat. Namanya diabadikan untuk Bandar Udara Sultan Thaha di Jambi</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Fatnawati-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Fatmawati">   
+    <!-- Fatmawati is subclassification of Bengkulu-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Bengkulu"/>
+    <foaf:givenName>Fatimah</foaf:givenName>
+    <foaf:nick>Fatmawati</foaf:nick>
+    <foaf:gender>Perempuan</foaf:gender>
+    <dbp:birthDate>Bengkulu, 5 Februari 1923</dbp:birthDate>
+    <dc:dateAccepted>2000</dc:dateAccepted>
+    <dbp:deathDate>Kuala Lumpur, Malaysia, 14 Mei 1980</dbp:deathDate>
+    <dc:description>Fatmawati adalah istri ke-3 dari Presiden Indonesia pertama, Soekarno. Ia menjadi ibu negara pertama dari tahun 1945 hingga tahun 1967. Ia juga dikenal akan jasanya dalam menjahit Bendera Pusaka Sang Saka Merah Putih yang turut dikibarkan pada upacara Proklamasi Kemerdekaan Indonesia di Jakarta pada tanggal 17 Agustus 1945. Beliau meninggal dunia karena serangan jantung ketika dalam perjalanan pulang umroh dari Mekkah dan kemudian dimakamkan di Karet Bivak, Jakarta.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - A.M. Hanafi-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/A.M._Hanafi">   
+    <!-- A.M. Hanafi is subclassification of Bengkulu-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Bengkulu"/>
+    <foaf:givenName>Anak Marhaen Hanafi</foaf:givenName>
+    <foaf:nick>Hanafi</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Bengkulu, 1918</dbp:birthDate>
+    <dc:dateAccepted>10 November 2021</dc:dateAccepted>
+    <dbp:deathDate>Paris, Prancis, 2 Maret 2004</dbp:deathDate>
+    <dc:description>A.M. Hanafi adalah mantan Menteri Urusan Tenaga Rakyat dan mantan Duta Besar Republik Indonesia untuk Kuba (1957-1960). Akibat kedekatannya dengan Soekarno, ia meminta dan mendapat suaka politik ke Prancis di mana dia tinggal hingga akhir hayatnya.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Adnan Kapau Gani-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Adnan_Kapau_Gani">   
+    <!-- Adnan Kapau Gani is subclassification of Sumatera Selatan-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera_Selatan"/>
+    <foaf:givenName>Adnan Kapau Gani</foaf:givenName>
+    <foaf:nick>A.K. Gani</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Palembayan, Agam, Hindia Belanda, 16 September 1905</dbp:birthDate>
+    <dc:dateAccepted>9 November 2007</dc:dateAccepted>
+    <dbp:deathDate>Palembang, 23 Desember 1968</dbp:deathDate>
+    <dc:description>Adnan Kapau Gani adalah seorang dokter, politisi, dan tokoh militer Indonesia. Ia pernah menjabat sebagai Wakil Perdana Menteri pada Kabinet Amir Sjarifuddin I dan Kabinet Amir Sjarifuddin II. Pada tahun 1942, Gani menolak untuk berkolaborasi dengan Jepang, sehingga ia ditangkap pada bulan September 1943 hingga bulan Oktober tahun berikutnya.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sultan Mahmud Badaruddin II-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sultan_Mahmud_Badaruddin_II">   
+    <!-- Sultan Mahmud Badaruddin II is subclassification of Sumatera Selatan-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sumatera Selatan"/>
+    <foaf:givenName>Raden Hasan Pangeran Ratu</foaf:givenName>
+    <foaf:nick>Sultan Mahmud Badaruddin II</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Palembang, 1767</dbp:birthDate>
+    <dc:dateAccepted>29 Oktober 1984</dc:dateAccepted>
+    <dbp:deathDate>Ternate, 26 September 1852</dbp:deathDate>
+    <dc:description>SMB II adalah seorang pangeran Melayu yang terkaya dan benar apa yang dikatakan bahwa gudangnya penuh dollar dan emas yang telah ditimbun oleh para leluhurnya. Hal inilah yang menjadi pokok penting yang menghalangi Daendels memanfaatkan pengadaan sumber yang besar tersebut.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Depati Amir-->
+<owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Depati_Amir">   
+    <!-- Depati Amir is subclassification of Bangka Belitung-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kepulauan_Bangka_Belitung"/>
+    <foaf:givenName>Depati Amir</foaf:givenName>
+    <foaf:nick>Amir</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Mendara, Bangka, 1805</dbp:birthDate>
+    <dc:dateAccepted>8 November 2018</dc:dateAccepted>
+    <dbp:deathDate>Air Mata, Kota Lama, Kupang, 28 September 1869</dbp:deathDate>
+    <dc:description>Depati merupakan salah satu pahlawan dari Bangka yang aktif melawan penjajahan Belanda di Bangka yang saat itu memiliki kepentingan terhadap aktivitas tambang timah. Karena perlawanannya dinilai merugikan aktivitas tambang mereka, akhirnya ia diasingkan ke Air Mata, Kota Lama, Kupang, Nusa Tenggara Timur. Namanya kini diabadikan Bandar Udara Depati Amir dan Stadion Depati Amir, Pangkal Pinang.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Izaak Huru Doko-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Izaak_Huru_Doko">   
+    <!-- Izaak Huru Doko is subclassification of Nusa Tenggara Timur-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Nusa_Tenggara_Timur"/>
+    <foaf:givenName>Izaak Huru Doko</foaf:givenName>
+    <foaf:nick>Izaak</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Sabu, Nusa Tenggara Timur, 20 November 1913</dbp:birthDate>
+    <dc:dateAccepted>3 November 2006</dc:dateAccepted>
+    <dbp:deathDate>Kupang, Nusa Tenggara Timur, 29 Juli 1985</dbp:deathDate>
+    <dc:description>Setelah proklamasi kemerdekaan Indonesia, Izaak Huru Doko mendirikan Partai Demokrasi Indonesia yang memiliki cabang di Flores, Sumba dan Sumbawa. Dalam hal ini, Ia diberi mandat oleh Partai Demokrasi Indonesia untuk memperjuangkan zelfbeschikkingsrecht (hak menentukan nasib sendiri) bagi bangsa Indonesia dan mempertahankan Negara Kesatuan Republik Indonesia serta menghapuskan Korte Verklaring (Plakat Pendek) dan daerah-daerah Swapraja. Selain itu, ia mengajukan tuntutan agar Karesidenan Timor digabungkan bersama dengan Bali dan Lombok.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Raden Inten II-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Radin_Inten_II">   
+    <!-- Raden Inten II is subclassification of Lampung-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Lampung"/>
+    <foaf:givenName>Radin Inten II Gelar Kesuma Ratu</foaf:givenName>
+    <foaf:nick>Raden Inten II</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Kuripan, Lampung, 1 Januari 1834</dbp:birthDate>
+    <dc:dateAccepted>23 Oktober 1986</dc:dateAccepted>
+    <dbp:deathDate>Negara Ratu, Lampung, 5 Oktober 1858</dbp:deathDate>
+    <dc:description>Raden Inten II adalah seorang pahlawan yang namanya diabadikan sebagai sebuah Bandara Radin Inten II dan perguruan tinggi IAIN Raden Intan di Lampung. Beliau meninggal karena serangan tiba-tiba pada saat ia makan oleh Radin Ngerapat dan anak buahnya. Perang tersebut tidaklah seimbang dan menewaskan dirinya di tempat dengan lumuran darah dan diperlihatkan kepada Kolonel Welson.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Gele Harun Nasution-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Gele_Harun_Nasution">   
+    <!-- Gele Harun Nasution is subclassification of Lampung-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Lampung"/>
+    <foaf:givenName>Gele Harun Nasution</foaf:givenName>
+    <foaf:nick>Gele</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Sibolga, 6 Desember 1910</dbp:birthDate>
+    <dc:dateAccepted>10 November 2015</dc:dateAccepted>
+    <dbp:deathDate>Bandar Lampung, 4 April 1973</dbp:deathDate>
+    <dc:description>Sekembalinya ke Tanjungkarang, ia diangkat menjadi Ketua Pengadilan Negeri pada 1 Januari 1950. Lalu ia diangkat kembali menjadi Residen Lampung yang "definitif" pada tanggal 1 Januari 1950 hingga 7 Oktober 1955. Selain berjuang melawan penjajah, Gele Harun berperan dalam pembentukan Lampung sebagai provinsi.Gele Harun sempat menjadi anggota Dewan Konstituante pada tahun 1956 hingga 1959 dan anggota DPR-GR/MPRS dari fraksi PNI periode 1965-1968. Selepas itu, dia kembali pada profesi lamanya, yakni sebagai advokat. Profesi pengacara itu ditekuninya hingga mengembuskan napas terakhir pada 4 April 1973. Gele Harun wafat di usia 62 tahun. Jasadnya dimakamkan di TPU Kebonjahe, Enggal, Bandar Lampung.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Sultan Ageng Tirtayasa-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Tirtayasa_dari_Banten">   
+    <!-- Sultan Ageng Tirtayasa is subclassification of Banten-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Banten"/>
+    <foaf:givenName>Sultan Ageng Tirtayasa</foaf:givenName>
+    <foaf:nick>Pangeran Surya</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Kesultanan Banten, 1631</dbp:birthDate>
+    <dc:dateAccepted>1 Agustus 1970</dc:dateAccepted>
+    <dbp:deathDate>Batavia, Hindia Belanda, 1692</dbp:deathDate>
+    <dc:description>Sultan Ageng Tirtaya di Kesultanan Banten pada periode 1651 - 1683. Ia memimpin banyak perlawanan terhadap Belanda. Masa itu, VOC menerapkan perjanjian monopoli perdagangan yang merugikan Kesultanan Banten. Kemudian Tirtayasa menolak perjanjian ini dan menjadikan Banten sebagai pelabuhan terbuka. Saat itu, Sultan Ageng Tirtayasa ingin mewujudkan Banten sebagai kerajaan Islam terbesar Di indonesia. Di bidang ekonomi, Tirtayasa berusaha meningkatkan kesejahteraan rakyat dengan membuka sawah-sawah baru dan mengembangkan irigasi. Di bidang keagamaan, ia mengangkat Syekh Yusuf sebagai mufti kerajaan dan penasehat sultan.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Syafruddin Prawiranegara-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Syafruddin_Prawiranegara">   
+    <!-- Syafruddin Prawiranegara is subclassification of Banten-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Banten"/>
+    <foaf:givenName>Syafruddin Prawiranegara</foaf:givenName>
+    <foaf:nick>Syafruddin</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Serang, Banten, 28 Februari 1911</dbp:birthDate>
+    <dc:dateAccepted>8 November 2011</dc:dateAccepted>
+    <dbp:deathDate>Jakarta, 15 Februari 1989</dbp:deathDate>
+    <dc:description>Syafruddin Prawiranegara adalah seorang pejuang kemerdekaan, Menteri, Gubernur Bank Indonesia, Wakil Perdana Menteri dan pernah menjabat sebagai Ketua (setingkat presiden) Pemerintah Darurat Republik Indonesia (PDRI). Ia menerima mandat dari presiden Soekarno ketika pemerintahan Republik Indonesia yang kala itu beribu kota di Yogyakarta jatuh ke tangan Belanda akibat Agresi Militer Belanda II pada tanggal 19 Desember 1948.[1][2][3] Ia kemudian menjadi Perdana Menteri bagi kabinet tandingan Pemerintahan Revolusioner Republik Indonesia (PRRI) di Sumatra Tengah tahun 1958.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Dewi Sartika-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Dewi_Sartika">   
+    <!-- Dewi Sartika is subclassification of Jawa Barat-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa_Barat"/>
+    <foaf:givenName>Raden Dewi Sartika</foaf:givenName>
+    <foaf:nick>Dewi Sartika</foaf:nick>
+    <foaf:gender>Perempuan</foaf:gender>
+    <dbp:birthDate>Cicalengka, Bandung, 4 Desember 1884</dbp:birthDate>
+    <dc:dateAccepted>1966</dc:dateAccepted>
+    <dbp:deathDate>Cineam, Tasikmalaya, 11 September 1947</dbp:deathDate>
+    <dc:description>Raden Dewi Sartika adalah tokoh perintis pendidikan untuk kaum wanita. Pada 16 Januari 1904, ia membuat sekolah yang bernama Sekolah Isteri di Pendopo Kabupaten Bandung. Sekolah tersebut kemudian direlokasi ke Jalan Ciguriang dan berubah nama menjadi Sekolah Kaoetamaan Isteri pada tahun 1910. Pada tahun 1912, sudah ada sembilan sekolah yang tersebar di seluruh Jawa Barat, lalu kemudian berkembang menjadi satu sekolah tiap kota maupun kabupaten pada tahun 1920. Pada September 1929, sekolah tersebut berganti nama menjadi Sekolah Raden Dewi. Ia meninggal pada 11 September 1947 di Cineam ketika dalam masa perang kemerdekaan</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Muhammad Toha-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Muhammad_Toha">   
+    <!-- Dewi Sartika is subclassification of Jawa Barat-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa_Barat"/>
+    <foaf:givenName>Muhammad Toha</foaf:givenName>
+    <foaf:nick>Toha</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Bandung, 1927</dbp:birthDate>
+    <dc:dateAccepted>24 Maret 1946</dc:dateAccepted>
+    <dbp:deathDate>Bandung, 11 Juli 1946</dbp:deathDate>
+    <dc:description>Muhammad Toha adalah seorang komandan Barisan Rakjat Indonesia, sebuah kelompok milisi pejuang yang aktif dalam masa Perang Kemerdekaan Indonesia. Toha meninggal dalam kebakaran dalam misi penghancuran gudang amunisi milik Tentara Sekutu bersama rekannya, setelah meledakkan dinamit dalam gudang amunisi tersebut.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Mohammad Husni Thamrin-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Mohammad_Husni_Thamrin">   
+    <!-- Mohammad Husni Thamrin is subclassification of Jakarta-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Daerah_Khusus_Ibukota_Jakarta"/>
+    <foaf:givenName>Mohammad Husni Thamrin</foaf:givenName>
+    <foaf:nick>Thamrin</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Weltevreden, Batavia, 16 Februari 1894</dbp:birthDate>
+    <dc:dateAccepted>28 Juli 1960</dc:dateAccepted>
+    <dbp:deathDate>Senen, Batavia, 11 Januari 1941</dbp:deathDate>
+    <dc:description>Muhammad Husni Thamrin wafat setelah sakit beberapa waktu lamanya. Akan tetapi beberapa saat sebelum kewafatannya, pemerintah kolonial telah melakukan tindakan "sangat kasar" terhadap dirinya. Dalam keadaan sakit, ia harus menghadapi perlakuan kasar itu, yaitu rumahnya digeledah oleh polisi-polisi rahasia Belanda (PID). Ia memprotesnya, akan tetapi tidak diindahkan. Sejak itu rumahnya dijaga ketat oleh PID dan tak seorangpun dari rumahnya yang diperbolehkan meninggalkan rumah tanpa seizin polisi, juga termasuk anak perempuannya yang masih juga tidak diperkenankan meninggalkan rumahnya, sekalipun utntuk pergi ke sekolah. Tindakan polisi Belanda itu tentulah sangat menekan perasaannya dan menambah parah sakitnya. Wafatnya Muhammad Husni Thamrin tentulah sangat besar artinya bagi bangsa Indonesia. Bangsa Indonesia telah kehilangan salah seorang pemimpinnya yang cerdas dan berwibawa. Menurut laporan resmi, ia dinyatakan bunuh diri namun ada dugaan ia dibunuh. Jenazahnya dimakamkan di TPU Karet, Jakarta. Di saat pemakamannya, lebih dari 10000 pelayat mengantarnya yang kemudian berdemonstrasi menuntuk penentuan nasib sendiri dan kemerdekaan dari Belanda.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Ismail Marzuki-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Ismail_Marzuki">   
+    <!-- Ismail Marzuki is subclassification of Jakarta-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Daerah_Khusus_Ibukota_Jakarta"/>
+    <foaf:givenName>Ismail Marzuki</foaf:givenName>
+    <foaf:nick>Ismail</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Kwitang, Senen, Batavia, 11 Mei 1914</dbp:birthDate>
+    <dc:dateAccepted>2004</dc:dateAccepted>
+    <dbp:deathDate>Kampung Bali, Tanah Abang, Jakarta, 25 Mei 1958</dbp:deathDate>
+    <dc:description>Ismail Marzuki adalah salah seorang komponis besar Indonesia. Namanya sekarang diabadikan sebagai suatu pusat seni di Jakarta yaitu Taman Ismail Marzuki (TIM) di kawasan Salemba, Jakarta Pusat. agu ciptaan karya Ismail Marzuki yang paling populer adalah Rayuan Pulau Kelapa yang digunakan sebagai lagu penutup akhir siaran oleh stasiun TVRI pada masa pemerintahan Orde Baru. Ismail Marzuki mendapat anugerah penghormatan pada tahun 1968 dengan dibukanya Taman Ismail Marzuki, sebuah taman dan pusat kebudayaan di Salemba, Jakarta Pusat. Pada tahun 2004 dia dinobatkan menjadi salah seorang tokoh pahlawan nasional Indonesia. Makam Ismail Marzuki di TPU Karet Bivak, Jakarta. Ia sempat mendirikan orkes Empat Sekawan. Selain itu ia dikenal publik ketika mengisi musik dalam film Terang Bulan.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Ismail Marzuki-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Diponegoro">   
+    <!-- Ismail Marzuki is subclassification of Jawa Tengah-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa_Tengah"/>
+    <foaf:givenName>Pangeran Harya Dipanegara</foaf:givenName>
+    <foaf:nick>Diponegoro</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Ngayogyakarta Hadiningrat, 11 November 1785</dbp:birthDate>
+    <dc:dateAccepted>6 November 1973</dc:dateAccepted>
+    <dbp:deathDate>Makassar, Hindia Belanda, 8 Januari 1855</dbp:deathDate>
+    <dc:description>Pangeran Diponegoro adalah salah seorang pahlawan nasional Republik Indonesia, yang memimpin Perang Diponegoro atau Perang Jawa selama periode tahun 1825 hingga 1830 melawan pemerintah Hindia Belanda. Sejarah mencatat, Perang Diponegoro atau Perang Jawa dikenal sebagai perang yang menelan korban terbanyak dalam sejarah Indonesia, yakni 8.000 korban serdadu Hindia Belanda, 7.000 pribumi, dan 200 ribu orang Jawa serta kerugian materi 25 juta Gulden.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Wage Rudolf Soepratman-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Wage_Rudolf_Soepratman">   
+    <!-- Wage Rudolf Soepratman is subclassification of Jawa Tengah-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa_Tengah"/>
+    <foaf:givenName>Wage Rudolf Soepratman</foaf:givenName>
+    <foaf:nick>Soepratman</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Jatinegara, Purworejo, 19 Maret 1903</dbp:birthDate>
+    <dc:dateAccepted>1971</dc:dateAccepted>
+    <dbp:deathDate>Surabaya, 17 Agustus 1938</dbp:deathDate>
+    <dc:description>Wage Rudolf Soepratman adalah pencipta lagu Indonesia Raya. Sesudah Indonesia merdeka, lagu Indonesia Raya dijadikan lagu kebangsaan, lambang persatuan bangsa. Tetapi, pencipta lagu itu, Wage Roedolf Soepratman, tidak sempat menikmati hidup dalam suasana kemerdekaan. Akibat menciptakan lagu Indonesia Raya, ia selalu diburu oleh polisi Hindia Belanda, sampai jatuh sakit di Surabaya. Karena lagu ciptaannya yang terakhir "Matahari Terbit" pada awal Agustus 1938, ia ditangkap ketika menyiarkan lagu tersebut bersama pandu-pandu di NIROM Jalan Embong Malang, Surabaya dan ditahan di penjara Kalisosok, Surabaya. Ia meninggal pada tanggal 17 Agustus 1938 karena sakit.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Ki Hadjar Dewantara-->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Ki_Hadjar_Dewantara">   
+    <!-- Ki Hadjar Dewantara is subclassification of Yogyakarta-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Daerah_Istimewa_Yogyakarta"/>
+    <foaf:givenName>Raden Mas Soewardi Soerjaningrat</foaf:givenName>
+    <foaf:nick>Ki Hadjar Dewantara</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Pakualaman, 2 Mei 1889</dbp:birthDate>
+    <dc:dateAccepted>28 November 1959</dc:dateAccepted>
+    <dbp:deathDate>Yogyakarta, 26 April 1959</dbp:deathDate>
+    <dc:description>Ki Hadjar Dewantara adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda. Tanggal kelahirannya sekarang diperingati di Indonesia sebagai Hari Pendidikan Nasional. Bagian dari semboyan ciptaannya, tut wuri handayani, menjadi slogan Kementerian Pendidikan Nasional Indonesia. Namanya diabadikan sebagai salah sebuah nama kapal perang Indonesia, KRI Ki Hajar Dewantara. Potret dirinya diabadikan pada uang kertas pecahan 20.000 rupiah tahun edisi 1998.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Nyai Ahmad Dahlan -->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Nyai_Ahmad_Dahlan">   
+    <!-- Nyai Ahmad Dahlan is subclassification of Yogyakarta-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Daerah_Istimewa_Yogyakarta"/>
+    <foaf:givenName>Nyai Ahmad Dahlan</foaf:givenName>
+    <foaf:nick>Siti Walidah</foaf:nick>
+    <foaf:gender>Perempuan</foaf:gender>
+    <dbp:birthDate>Kauman, Yogyakarta, 3 Januari 1872</dbp:birthDate>
+    <dc:dateAccepted>10 November 1971</dc:dateAccepted>
+    <dbp:deathDate>Kauman, Yogyakarta, 31 Mei 1946</dbp:deathDate>
+    <dc:description>Siti Walidah adalah tokoh emansipasi perempuan, istri dari pendiri organisasi Muhammadiyah, Ahmad Dahlan dan juga seorang Pahlawan Nasional Indonesia. Selama masa pendudukan Jepang, Aisyiyah dilarang oleh Militer Jepang di Jawa dan Madura pada 10 September 1943, dia kemudian bekerja di sekolah-sekolah dan berjuang untuk menjaga siswa dari paksaaan untuk menyembah matahari dan menyanyikan lagu-lagu Jepang. Selama masa Revolusi Nasional Indonesia, dia memasak sup dari rumahnya bagi para tentaradan mempromosikan dinas militer di antara mantan murid-muridnya. Dia juga berpartisipasi dalam diskusi tentang perang bersama Jenderal Sudirman dan Presiden Sukarno. Nyai Ahmad Dahlan meninggal pada pukul 01:00 siang pada tanggal 31 Mei 1946 dan dimakamkan di belakang Masjid Gedhe Kauman, Yogyakarta empat jam kemudian. Sekretaris Negara, Abdoel Gaffar Pringgodigdo dan Menteri Agama, Rasjidi mewakili pemerintah pada saat pemakamannya.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Ario Soerjo -->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Ario_Soerjo">   
+    <!-- Ario Soerjo is subclassification of Jawa Timur-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa_Timur"/>
+    <foaf:givenName>Raden Mas Tumenggung Ario Soerjo</foaf:givenName>
+    <foaf:nick>Arie Soerjo</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Magetan, Jawa Timur, 9 Juli 1898</dbp:birthDate>
+    <dc:dateAccepted>Juni 1947</dc:dateAccepted>
+    <dbp:deathDate>Bago, Kedunggalar, Ngawi, Jawa Timur, 10 November 1948</dbp:deathDate>
+    <dc:description>Arie Soerjo seorang pahlawan nasional Indonesia dan gubernur pertama Jawa Timur dari tahun 1945 hingga tahun 1948. Sebelumnya, ia menjabat sebagai Bupati Magetan dari tahun 1938 hingga tahun 1943. Ia adalah menantu Raden Mas Arja Hadiwinoto. Setelah menjabat bupati Magetan, ia menjabat Su Cho Kan Bojonegoro (Residen) pada tahun 1943. Tanggal 9 November 1948, mobil Ario Suryo dan dua orang polisi dicegat di Walikukun oleh pasukan pro-PKI, dan jasad mereka ditemukan terbunuh sesudahnya. R. M. T. Soerjo dimakamkan di Makam Sasono Mulyo, sebuah monumen yang dibangun untuk mengenang jasa-jasanya terletak di Kecamatan Kedunggalar kabupaten Ngawi.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - Basuki Rahmat -->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Basuki_Rahmat">   
+    <!-- Basuki Rahmat is subclassification of Jawa Timur-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Jawa_Timur"/>
+    <foaf:givenName>Mayor Jenderal TNI (Purn.) Basuki Rahmat</foaf:givenName>
+    <foaf:nick>Basuki Rahmat</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Senori, Tuban, Jawa Timur, 4 November 1921</dbp:birthDate>
+    <dc:dateAccepted>9 Januari 1969</dc:dateAccepted>
+    <dbp:deathDate>Jakarta, Indonesia, 8 Januari 1969</dbp:deathDate>
+    <dc:description>Basuki Rahmat adalah Jenderal Tentara Nasional Indonesia dan menjadi saksi penandatanganan Supersemar dokumen serah terima kekuasaan dari Presiden Soekarno kepada Jenderal Soeharto. Setelah ia meninggal Pemda Jakarta mengubah nama Jalan Proklamasi (Depok Timur) yang terhubung ke Jalan Arif Rahman Hakim (Margonda) menjadi Jalan Basuki Rahmat. TV Jakarta dan Depok pernah membuat film pendek mengenai riwayat hidupnya.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - I Gusti Ngurah Rai -->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/Basuki_Rahmat">   
+    <!-- I Gusti Ngurah Rai is subclassification of Bali-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Bali"/>
+    <foaf:givenName>Brigadir Jenderal TNI (Anumerta) I Gusti Ngurah Rai</foaf:givenName>
+    <foaf:nick>I Gusti Ngurah Rai</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Desa Carangsari, Petang, Kabupaten Badung, Bali, Hindia Belanda, 30 Januari 1917</dbp:birthDate>
+    <dc:dateAccepted>1975</dc:dateAccepted>
+    <dbp:deathDate>Marga, Tabanan, Bali, Indonesia, 20 November 1946</dbp:deathDate>
+    <dc:description>Ngurah Rai memiliki pasukan yang bernama pasukan "Ciung Wanara" yang melakukan pertempuran terakhir yang dikenal dengan nama Puputan Margarana. (Puputan, dalam bahasa bali, berarti "habis-habisan", sedangkan Margarana berarti "Pertempuran di Marga"; Marga adalah sebuah desa ibu kota kecamatan di pelosok Kabupaten Tabanan, Bali) Di tempat puputan tersebut lalu didirikan Taman Pujaan Bangsa Margarana. Pemerintah Indonesia menganugerahkan Bintang Mahaputra dan kenaikan pangkat menjadi Brigjen TNI (anumerta). Namanya kemudian diabadikan dalam nama bandar udara di Bali, Bandar Udara Internasional Ngurah Rai dan nama kapal perang KRI I Gusti Ngurah Rai. Sebagai bentuk penghargaan lain atas jasanya, profil wajahnya pernah dicantumkan pada cetakan mata uang Rupiah pecahan Rp. 50.000 tahun emisi 2005. Pada tahun 1975, I Gusti Ngurah Rai dianugerahi gelar Pahlawan Nasional Indonesia oleh Pemerintah Indonesia.</dc:description>
+</owl:Class>
+
+<!-- OWL SubClass Definition - I Gusti Ketut Pudja -->
+<owl:Class rdf:about="https://id.wikipedia.org/wiki/I_Gusti_Ketut_Pudja">   
+    <!-- I Gusti Ketut Pudja is subclassification of Bali-->
+    <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Bali"/>
+    <foaf:givenName>I Gusti Ketut Pudja</foaf:givenName>
+    <foaf:nick>Ketut Pudja</foaf:nick>
+    <foaf:gender>Laki - Laki</foaf:gender>
+    <dbp:birthDate>Singaraja, 19 Mei 1908</dbp:birthDate>
+    <dc:dateAccepted>1975</dc:dateAccepted>
+    <dbp:deathDate>Jakarta, 4 Mei 1977</dbp:deathDate>
+    <dc:description>Ketut Pudja adalah pahlawan nasional Indonesia. Ia ikut serta dalam perumusan negara Indonesia melalui Panitia Persiapan Kemerdekaan Indonesia mewakili Sunda Kecil (saat ini Bali dan Nusa Tenggara). I Gusti Ketut Pudja juga hadir dalam perumusan naskah teks proklamasi di rumah Laksamana Maeda. Ia kemudian diangkat Soekarno sebagai Gubernur Sunda Kecil. Pada tahun 2011, I Gusti Ketut Pudja ditetapkan oleh Pemerintah Republik Indonesia sebagai pahlawan nasional bersama 6 orang lainnya. Pada tanggal 19 Desember 2016, atas jasa jasanya, Pemerintah Republik Indonesia, mengabadikan beliau di pecahan uang logam rupiah baru, pecahan Rp. 1.000,-</dc:description>
+</owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Muhammad_Zainuddin_Abdul_Madjid -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Muhammad_Zainuddin_Abdul_Madjid">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Nusa_Tenggara_Barat"/>
+        <foaf:givenName>Muhammad Zainuddin Abdul Madjid</foaf:givenName>
+        <foaf:nick>Tuan Guru Kyai Haji Muhammad Zainuddin Abdul Madjid</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Bermi, Pancor, Selong, Lombok Timur, Nusa Tenggara Barat, 5 Agustus 1898</dbp:birthDate>
+        <dc:dateAccepted>1995</dc:dateAccepted>
+        <dbp:deathDate>Pancor, Selong, Lombok Timur, Nusa Tenggara Barat, 21 Oktober 1997</dbp:deathDate>
+        <dc:description>Mawlanasysyaikh Tuan Guru Kyai Hajji Muhammad Zainuddin Abdul Madjid adalah seorang ulama karismatis dari Pulau Lombok, Nusa Tenggara Barat dan merupakan pendiri Nahdlatul Wathan, organisasi massa Islam terbesar di provinsi tersebut. Di pulau Lombok, Tuan Guru merupakan gelar bagi para pemimpin agama yang bertugas untuk membina, membimbing, dan mengayomi umat Islam dalam hal-hal keagamaan dan sosial kemasyarakatan, yang di Jawa identik dengan Kyai. Beliau mendirikan pesantren al-Mujahihdin pada 1934 M. Pada tanggal 15 Jumadil Akhir 1356 H/22 Agustus 1937 M. beliau mendirikan Madrasah Nahdlatul Wathan Diniyah Islamiyah (NDWI) khusus untuk mendidik kaum pria. Kemudian pada tanggal 15 Rabiul Akhir 1362/21 April 1943 M. beliau juga mendirikan madrasah Nahdlatul Banat Diniah Islamiyah (NBDI) khusus untuk kaum wanita. Pada zaman penjajahan, Muhammad Zainuddin Abdul Madjid menjadikan NWDI dan NBDI sebagai pusat pergerakan kemerdekaan, tempat menggembleng patriot-patriot bangsa yang siap bertempur melawan dan mengusir penjajah. Bahkan secara khusus, beliau bersama guru-guru Madrasah NWDI-NBDI membentuk suatu gerakan yang diberi nama "Gerakan al-Mujahidin". Gerakan ini bergabung dengan gerakan-gerakan rakyat lainnya di Pulau Lombok untuk bersama-sama membela dan mempertahankan kemerdekaan dan keutuhan Bangsa Indonesia.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Herman_Johannes -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Herman_Johannes">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Nusa_Tenggara_Timur"/>
+        <foaf:givenName>Herman Johannes</foaf:givenName>
+        <foaf:nick>Herman Johannes</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Rote, Nusa Tenggara Barat, 28 Mei 1912</dbp:birthDate>
+        <dc:dateAccepted>06 November 2009</dc:dateAccepted>
+        <dbp:deathDate>Yogyakarta, 17 Oktober 1992</dbp:deathDate>
+        <dc:description>Prof. Dr. Ir. Herman Johannes adalah cendekiawan, politikus, ilmuwan Indonesia, guru besar Universitas Gadjah Mada (UGM), dan Pahlawan Nasional Indonesia. Ia pernah menjabat sebagai rektor UGM (1961-1966), Koordinator Perguruan Tinggi (Koperti) tahun 1966-1979, anggota Dewan Pertimbangan Agung (DPA) RI (1968-1978), dan Menteri Pekerjaan Umum (1950-1951).</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Izaak_Huru_Doko -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Izaak_Huru_Doko">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Nusa_Tenggara_Timur"/>
+        <foaf:givenName>Izaak Huru Doko</foaf:givenName>
+        <foaf:nick>Izaak Huru Doko</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Sabu, Nusa Tenggara Timur, 20 Novemeber 1913</dbp:birthDate>
+        <dc:dateAccepted></dc:dateAccepted>
+        <dbp:deathDate>Kupang, Nusa Tenggara Timur, 29 Juli 1985</dbp:deathDate>
+        <dc:description>Izaak Huru Doko adalah pahlawan nasional Indonesia yang berasal dari Nusa Tenggara Timur. Ia bersekolah di Hollandsche Indlandsche Kweekschool (HIK, Sekolah Guru) di Bandung, Jawa Barat. Bersama Herman Johannes, ia memimpin TImorsche Jongeren (Pemuda Timor) dengan tujuan mempersatukan para pelajar Timor dan memiliki beberapa cabang yang tersebar di kota-kota besar di Indonesia. Ia juga merintis berdirinya partai politik bernama Perserikatan Kebangsaan Timor dan menjadi ketua partai tersebut. Pada saat pendudukan Jepang di Indonesia, ia diangkat menjadi Kepala Bunkyo Kakari (Pengajaran/Penerangan) yang menangani pendidikan, kesehatan, penerangan, dan keagamaan sejak tahun 1942 hingga 1945. Di sisi lain, ia mengunggah surat kabar Timor Syuho untuk memelihara cita-cita kemerdekaan Indonesia.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Tjilik_Riwut -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Tjilik_Riwut">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Tengah"/>
+        <foaf:givenName>Tjilik Riwut </foaf:givenName>
+        <foaf:nick>Tjilik Riwut </foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Kasongan, Kalimantan Tengah, 2 Februari 1918</dbp:birthDate>
+        <dc:dateAccepted>6 November 1998</dc:dateAccepted>
+        <dbp:deathDate>Banjarmasin, Kalimantan Selatan, 17 Agustus 1987</dbp:deathDate>
+        <dc:description>Marsekal Pertama TNI (HOR) (Purn.) Tjilik Riwut adalah salah satu pahlawan nasional Indonesia dan Gubernur Kalimantan Tengah pertama. Tjilik Riwut yang dengan bangga selalu menyatakan diri sebagai “orang hutan” karena lahir dan dibesarkan di belantara Kalimantan, adalah pencinta alam sejati juga sangat menjunjung tinggi budaya leluhurnya. Ketika masih belia, ia telah tiga kali mengelilingi pulau Kalimantan hanya dengan berjalan kaki, naik perahu dan rakit. Dia menamatkan pendidikan dasarnya di kota kelahirannya. Selanjutnya dia melanjutkan pendidikannya di Sekolah Perawat di Purwakarta dan Bandung. Tjilik Riwut adalah salah satu putera Dayak dari suku Dayak Ngaju yang menjadi anggota KNIP. Perjalanan dan perjuangannya kemudian melampaui batas-batas kesukuan untuk menjadi salah satu pejuang bangsa. </dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Tumenggung_Surapati -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Tumenggung_Surapati">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Tengah"/>
+        <foaf:givenName>Tommengoeng Soera Pattie</foaf:givenName>
+        <foaf:nick>Pangeran Dipati</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Kalimantan Tengah</dbp:birthDate>
+        <dc:dateAccepted>2020</dc:dateAccepted>
+        <dbp:deathDate>Kalimantan Tengah, 1875</dbp:deathDate>
+        <dc:description>Tommengoeng Soera Pattie (EYD: Tumenggung Surapati) atau Tomongong Suro-patty/Soero Patti (ejaan Jawa) atau Kiai Dipati Jaya Raja, kemudian bergelar Pangeran Dipati adalah hoofd van de Doesson Oeloe, Moerong en Siang (Afdeeling Becompaij en Doesson dalam susunan pemerintahan Hindia Belanda tahun 1848). Ia merupakan kepala suku Dayak Bakumpai-Siang yang memihak kepada Pangeran Antasari. Ia menjadi panglima perang dalam Perang Barito yang merupakan bagian dari Perang Banjar.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Mohammad_Ali_Anyang -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Mohammad_Ali_Anyang">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Barat"/>
+        <foaf:givenName>Mohammad Ali Anyang</foaf:givenName>
+        <foaf:nick>Ali Anyang</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Ambalau, Sintang, 20 Oktober 1920</dbp:birthDate>
+        <dc:dateAccepted>2020</dc:dateAccepted>
+        <dbp:deathDate>Singkawang, 7 April 1970</dbp:deathDate>
+        <dc:description>Mohammad Ali Anyang adalah seorang pejuang kemerdekaan di Kalimantan Barat. Sebagai anggora PPRI (Panitia Penyongsong Republik Indonesia, Ali Anyang berperan dalam mencegah perebutan kekuasaan di Pontianak, yang akan dilakukan orang-orang berketurunan Tionghoa yang tergabung dalam organisasi Penjaga Keamanan Umum (PKU). Seperti diketahui, sejalan dengan diterimanya berita Proklamasi Kemerdekaan Indonesia, di Pontianak pada 27 Agustus 1945 terjadi kekosongan pemerintahan. Kedatangan NICA yang bermaksud menjajah kembali Kalbar, mendapat tantangan dari masyarakat. Ali Anyang beserta pemuda-pemuda pejuang kemerdekaan lainnya berusaha menghalangi maksud Belanda tersebut. Pada tanggal 8 Oktober 1946, Ali Anyang dan pasukannya menyerbu tangsi militer Belanda di Bengkayang. Para pejuang berhasil menguasai kota Bengkayang dan mengibarkan bendera Merah Putih diiringi lagu Indonesia Raya. Sayangnya, pada 9 Oktober 1946, pasukan Belanda merebut kembali kota Bengkayang. Semasa hidupnya, Ali Anyang pernah menjadi Ketua Dewan Perwakilan Rakyat Daerah (DPRD) II Kabupaten Sambas di Singkawang. Saat mengemban jabatannya tersebut, pada 7 April 1970, Ali Anyang meninggal dunia karena sakit. Jenazahnya dimakamkan di Taman Makam Pahlawan Bambu Runcing, Singkawang.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Tumenggung_Setia_Pahlawan -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Tumenggung_Setia_Pahlawan">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Barat"/>
+        <foaf:givenName>Abdul Kadir</foaf:givenName>
+        <foaf:nick>Raden Temenggung Setia Pahlawan</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Sintang, Kalimantan Barat, 1771</dbp:birthDate>
+        <dc:dateAccepted>13 Oktober 1999</dc:dateAccepted>
+        <dbp:deathDate>Tanjung Suka Dua, Melawi, 1875</dbp:deathDate>
+        <dc:description>Abdul Kadir Gelar Raden Temenggung Setia Pahlawan adalah seorang pahlawan nasional Indonesia dari Melawi. Pada tahun 1845, ia diangkat sebagai Kepala Pemerintahan Melawi yang merupakan bagian dari Kerajaan Sintang. Sebagai pejabat kerajaan ia mendapat gelar Raden Temenggung. Ia berhasil mengembangkan potensi perekonomian wilayah ini dan mempersatukan suku Dayak dengan Melayu. Selain itu ia juga berjuang menentang Belanda yang ingin menguasai wilayah ini. Dalam perjuangannya, ia berhasil mempersatukan suku-suku Dayak dengan Melayu serta dapat mengembangkan potensi ekonomi daerah Melawi. Namun, ia juga berjuang keras menghadapi ambisi Belanda (datang di Sintang pada tahun 1820) yang ingin memperluas wilayah kekuasaannya ke daerah Melawi. Dalam menghadapi Belanda, ia memakai strategi peran ganda, yaitu sebagai pejabat pemerintah Melawi ia tetap bersikap setia pada Raja Sintang yang berarti setia pula pada pemerintahan Belanda. Tetapi secara diam-diam ia juga menghimpun kekuatan rakyat untuk melawan Belanda. Ia membentuk kesatuan-kesatuan bersenjata di daerah Melawi dan sekitarnya untuk menghadapi pasukan Belanda. Pada tahun 1866, Belanda memberikan hadiah uang dan gelar Setia Pahlawan kepada Abdul Kadir Raden Tumenggung agar sikapnya melunak dan mau bekerjasama dengan Belanda. Namun Abdul Kadir tidak mengubah sikap dan pendiriannya. Ia tetap melakukan persiapan untuk melawan pemerintahan Belanda. </dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Hasan_Basry -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Hasan_Basry">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Selatan"/>
+        <foaf:givenName>Hasan Basry</foaf:givenName>
+        <foaf:nick>Hasan Basry</foaf:nick>
+        <foaf:gender>laki-laki</foaf:gender>
+        <dbp:birthDate>Kandangan, Hulu Sungai Selatan, 17 Juni 1923</dbp:birthDate>
+        <dc:dateAccepted>3 November 2001</dc:dateAccepted>
+        <dbp:deathDate>Jakarta, 15 Juli 1984</dbp:deathDate>
+        <dc:description>Brigjen TNI (Purn.) Hasan Basry adalah seorang tokoh militer dan Pahlawan Nasional Indonesia. Setelah proklamasi kemerdekaan, Hasan Basry aktif dalam organisasi pemuda Kalimantan yang berpusat di Surabaya. Pada tahun 1956, ia dilantik sebagai Komandan Resimen Infanteri 21/Komandan Teritorial VI Kalsel. Dan pada tahun 1959, ditunjuk sebagai Panglima Daerah Militer X Lambung Mangkurat. Hasan Basry bersama rekan-rekan Kesatuan Tentara Nasional Indonesia Divisi Lambung Mangkurat, para pejuang dan tokoh masyarakat, membentuk Dewan Lambung Mangkurat pada tanggal 3-10 Maret 1957. Salah satu rencana kerjanya adalah mendirikan perguruan tinggi di Kalimantan. Pada pertengahan tahun 1958 dibentuk Panitia Persiapan Pendirian Universitas Lambung Mangkurat yang diketuai Hasan Basry.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Pangeran_Antasari -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Pangeran_Antasari">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Selatan"/>
+        <foaf:givenName>Gusti Inu Kartapati</foaf:givenName>
+        <foaf:nick>Pangeran Antasari</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Kayu Tangi, Kesultanan Banjar, 1797 atau 1809</dbp:birthDate>
+        <dc:dateAccepted>27 Maret 1968</dc:dateAccepted>
+        <dbp:deathDate>Bayan Begok, Hindia Belanda, 11 Oktober 1862</dbp:deathDate>
+        <dc:description>Pangeran Antasari adalah Sultan Banjar. Pada 14 Maret 1862, dia dinobatkan sebagai pimpinan pemerintahan tertinggi di Kesultanan Banjar (Sultan Banjar) dengan menyandang gelar Panembahan Amiruddin Khalifatul Mukminin dihadapan para kepala suku Dayak dan adipati (gubernur) penguasa wilayah Dusun Atas, Kapuas dan Kahayan yaitu Tumenggung Surapati/Tumenggung Yang Pati Jaya Raja. Perang Banjar pecah saat Pangeran Antasari dengan 300 prajuritnya menyerang tambang batu bara milik Belanda di Pengaron tanggal 25 April 1859. Selanjutnya peperangan demi peperangan dikomandoi Pangeran Antasari di seluruh wilayah Kerajaan Banjar. Dengan dibantu para panglima dan pengikutnya yang setia, Pangeran Antasari menyerang pos-pos Belanda di Martapura, Hulu Sungai, Riam Kanan, Tanah Laut, Tabalong, sepanjang sungai Barito sampai ke Puruk Cahu.Pertempuran yang berkecamuk makin sengit antara pasukan Pangeran Antasari dengan pasukan Belanda, berlangsung terus di berbagai medan. Pasukan Belanda yang ditopang oleh bala bantuan dari Batavia dan persenjataan modern, akhirnya berhasil mendesak terus pasukan Pangeran Antasari. Dan akhirnya Pangeran Antasari memindahkan pusat benteng pertahanannya di Muara Teweh.Berkali-kali Belanda membujuk Pangeran Antasari untuk menyerah, namun dia tetap pada pendiriannya.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Abdoel_Moeis_Hassan -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Abdoel_Moeis_Hassan">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Timur"/>
+        <foaf:givenName>Abdoel Moeis Hassan</foaf:givenName>
+        <foaf:nick>Abdoel Moeis</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Samarinda, 2 Juni 1924</dbp:birthDate>
+        <dc:dateAccepted>30 Agustus 1959</dc:dateAccepted>
+        <dbp:deathDate>Bandung, 17 Juni 1959</dbp:deathDate>
+        <dc:description>Abdoel Moeis Hassan adalah seorang tokoh pemuda pergerakan kebangsaan di Samarinda pada masa 1940-1945 dan pemimpin perjuangan diplomasi politik untuk kemerdekaan Republik Indonesia di wilayah Kalimantan TImur pada masa 1945-1949. Sejak remaja, ia mengikuti aktivitas pergerakan kebangsaan di Samarinda dan belajar masalah politik [ada A.M. Sangadji. Pada tahun 1940, ia mendirikan Roekoen Pemoeda Indonesia (Roepindo) dan menjadi ketuanya. Bersama A.M. Sangadji, ia mendirikan lembaga pendidikan bernama Balai Pengadjaran dan Pendidikan Ra'jat pada tahun 1942. Ia bergabung dalam Panitia Persiapan Penyambutan Kemerdekaan Indonesia (P3KRI) untuk mewujudkan Proklamasi Negara Indonesia di Samarinda tahun 1945 dan mendirikan Ikatan Nasional Indonesia (INI) cabang Samarinda yang bertujuan menentang pendudukan Belanda di Samarinda setahun setelahnya. Tahun 1947 ia menjadi ketua Front Nasional sebagai koalisi organisasi yang mendukung RI dan menentang federasi yang dibentuk Belanda.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Aji_Muhammad_Idris -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Aji_Muhammad_Idris">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Kalimantan_Timur"/>
+        <foaf:givenName>Aji Muhammad Idris</foaf:givenName>
+        <foaf:nick>Sultan Aji Muhammad Idris</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate></dbp:birthDate>
+        <dc:dateAccepted>2020</dc:dateAccepted>
+        <dbp:deathDate>Wajo, 1739</dbp:deathDate>
+        <dc:description>Sultan Aji Muhammad Idris adalah Sultan ke-14 dari Kesultanan Kutai Kertanegara ing Martadipura yang memerintah mulai tahun 1735 hingga tahun 1778. Sultan Aji Muhammad Idris adalah sultan pertama yang menggunakan nama Islam semenjak masuknya agama Islam di Kesultanan Kutai Kertanegara pada abad ke-17. Sultan Aji Muhammad Idris yang merupakan menantu dari Sultan Wajo La Madukelleng berangkat ke tanah Wajo, Sulawesi Selatan untuk turut bertempur melawan VOC bersama rakyat Bugis. Pemerintahan Kesultanan Kutai Kertanegara untuk sementara dipegang oleh Dewan Perwalian. Pada tahun 1739, Sultan A.M. Idris gugur di medan laga.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Djalaludin_Tantu -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Djalaludin_Tantu">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Gorontalo"/>
+        <foaf:givenName>Djalaludin Tantu</foaf:givenName>
+        <foaf:nick>Djalaludin Tantu</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Gorontalo, tanggal tidak diketahui</dbp:birthDate>
+        <dc:dateAccepted>2020</dc:dateAccepted>
+        <dbp:deathDate>(diduga) Selat Karimata, 2 September 1964</dbp:deathDate>
+        <dc:description>Mayor Udara (Anumerta) Djalaludin Tantu adalah seorang penerbang TNI Angkatan Udara, yang gugur saat menjalankan tugas menerbangkan pesawat Hercules C-130B berkode ekor (tail code) T-1307 dalam misi penerjunan pasukan payung ke Kalimantan Utara (Malaysia) pada masa kampanye Dwikora. Namanya diabadikan sebagai nama Pangkalan Udara TNI AU di Gorontalo dengan nama Lanud Djalaludin Tantu.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Nani_Wartabone -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Nani_Wartabone">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Gorontalo"/>
+        <foaf:givenName>Nani Wartabone</foaf:givenName>
+        <foaf:nick>Nani Wartabone</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>30 April 1907</dbp:birthDate>
+        <dc:dateAccepted>6 November 2003</dc:dateAccepted>
+        <dbp:deathDate>Suwawa, Gorontalo, 3 Januari 1986</dbp:deathDate>
+        <dc:description>Nani Wartabone adalah seorang pejuang yang aktif berorganisasi dan berjuang melawan kolonialisme di daerahnya pada masa perjuangan kemerdekaan. Ia mulai berjuang dengan mendirikan dan menjadi sekretaris Jong Gorontalo di Surabaya pada 1923. Lima tahun kemudian, ia menjadi Ketua PNI Cabang Gorontalo.Nani Wartabone menentang bentuk pemerintahan Republik Indonesia Serikat (RIS) yang ada pada saat itu. Gorontalo sendiri berada dalam Negara Indonesia Timur. Menurutnya, RIS hanyalah pemerintahan boneka yang diinginkan Belanda agar Indonesia tetap terpecah dan mudah dikuasai lagi. Nani Wartabone kembali menggerakkan rakyat Gorontalo dalam sebuah rapat raksasa pada tanggal 6 April 1950. Tujuan rapat raksasa ini adalah menolak RIS dan bergabung dengan NKRI. Peristiwa ini menandakan, bahwa Gorontalo adalah wilayah Indonesia pertama yang menyatakan menolak RIS. Pada periode ini hingga tahun 1953, Nani Wartabone dipercaya mengemban beberapa jabatan penting, di antaranya kepala pemerintahan di Gorontalo, Penjabat Kepala Daerah Sulawesi Utara, dan anggota DPRD Sulawesi Utara. Ketika PRRI/PERMESTA mengambil alih kekuasaan di Gorontalo setelah Letkol Ventje Sumual dan kawan-kawannya memproklamasikan pemerintahan PRRI/PERMESTA di Manado pada bulan Maret 1957. Jiwa patriotisme Nani Wartabone kembali bergejolak. Ia kembali memimpin massa rakyat dan pemuda untuk merebut kembali kekuasaan PRRI/PERMESTA di Gorontalo dan mengembalikannya ke pemerintahan pusat di Jakarta. Nani Wartabone berhasil merebut kembali pemerintahan di Gorontalo dari tangan PRRI/PERMESTA pada pertengahan Juni 1958.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Pierre_Tendean -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Pierre_Tendean">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi_Utara"/>
+        <foaf:givenName>Pierre Andries Tendean</foaf:givenName>
+        <foaf:nick>Pierre Tendean</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>21 Februari 1939</dbp:birthDate>
+        <dc:dateAccepted>5 Oktober 1965</dc:dateAccepted>
+        <dbp:deathDate>1 Oktober 1965</dbp:deathDate>
+        <dc:description>Kapten Czi. (Anumerta) Pierre Andries Tendean[1] adalah seorang perwira militer Indonesia yang menjadi salah satu korban peristiwa Gerakan 30 September pada tahun 1965. Mengawali karier militer dengan menjadi intelijen dan kemudian ditunjuk sebagai Ajudan Jenderal Besar TNI Abdul Haris Nasution menggantikan Kapten Kav Adolf Gustaf Manullang ajudan Pak Nas, yang gugur dalam misi perdamaian di Kongo Afrika tahun 1963. Dengan pangkat Letnan Satu Czi, ia dipromosikan menjadi Kapten Anumerta setelah kematiannya. Tendean dimakamkan di Taman Makam Pahlawan Kalibata dan bersama enam perwira korban Gerakan 30 September lainnya, ia ditetapkan sebagai Pahlawan Revolusi Indonesia pada tanggal 5 Oktober 1965.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Maria_Walanda_Maramis -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Maria_Walanda_Maramis">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi_Utara"/>
+        <foaf:givenName>Maria Joshepine Catherine Maramis</foaf:givenName>
+        <foaf:nick>Maria Walanda Maramis</foaf:nick>
+        <foaf:gender>Perempuan</foaf:gender>
+        <dbp:birthDate>Kema, Minahasa Utara, Sulawesi Utara, 1 Desember 1872</dbp:birthDate>
+        <dc:dateAccepted>20 Mei 1969</dc:dateAccepted>
+        <dbp:deathDate>Maumbi, Kalawat, Minahasa Utara, Sulawesi Utara, 22 April 1924</dbp:deathDate>
+        <dc:description>Maria Joshepine Catherine Maramis atau yang lebih dikenal sebagai Marian Walanda Maramis, adalah seorang pahlawan nasional Indonesia karena usahanya untuk mengembangkan keadaan wanita di Indonesia pada permulaan abad ke-20. Setiap tanggal 1 Desember, masyarakat Minahasa memperingati Hari Ibu Maria Walanda Maramis, sosok yang dianggap sebagai pendobrak adat, pejuang kemajuan dan emansipasi perempuan di dunia politik dan pendidikan. Maria ditahbiskan sebagai perempuan teladan Minahasa yang memiliki "bakat istimewa untuk menangkap mengenai apapun juga dan untuk mengembangkan daya pikirnya, bersifat mudah menampung pengetahuan sehingga lebih sering maju daripada kaum lelaki. "</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Andi_Depu -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Andi_Depu">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi_Barat"/>
+        <foaf:givenName>Andi Depu Maraddia Balanipa</foaf:givenName>
+        <foaf:nick>Puang Depu Maraddia Balanipa / Ibu Agung</foaf:nick>
+        <foaf:gender>Perempuan</foaf:gender>
+        <dbp:birthDate>Tinambung, Polewali Mandar, Sulawesi Barat, Agustus 1907</dbp:birthDate>
+        <dc:dateAccepted>10 November 2018</dc:dateAccepted>
+        <dbp:deathDate>Ujungpandang, Sulawesi Selatan, 18 Juni 1985</dbp:deathDate>
+        <dc:description>Andi Depu adalah seorang pejuang wanita asal Indonesia. Ia berhasil mempertahankan Tinambung, Polewali Mandar dari penaklukan Belanda. Pada 1942, ia mengibarkan bendera Merah Putih pada awal kedatangan pasukan Jepang di  Mandar. Ia mendapatkan anugerah Bintang Mahaputra Tingkat IV dari Presiden Soekarno.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Pong_Tiku -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Pong_Tiku">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi_Selatan"/>
+        <foaf:givenName>Pong Tiku</foaf:givenName>
+        <foaf:nick>Ne’ Baso</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Rantepao, 1846</dbp:birthDate>
+        <dc:dateAccepted>6 November 2002</dc:dateAccepted>
+        <dbp:deathDate>Tondon, Tana Toraja, 10 Juli 1907</dbp:deathDate>
+        <dc:description>Pong Tiku dikenal dengan nama Ne’ Baso, adalah pemimpin dan gerilyawan Toraja yang beroperasi di Sulawesi bagian selatan, sekarang bagian dari Indonesia. Ketika pasukan Belanda menyerbu Sulawesi pada awal 1900-an, Tiku dan pasukannya melancarkan serangan dari benteng. Ia ditangkap pada bulan Oktober 1906. Bulan Januari 1907, ia kabur dan menjadi buronan sampai Juni tahun itu. Ia dieksekusi mati beberapa hari setelah tertangkap. Tiku merupakan pemimpin pemberontakan terlama di Sulawesi. Gubernur Jenderal J. B. van Heutsz menganggap Tiku sebagai ancaman bagi kestabilan pemerintahan Belanda di kawasan itu. Van Heutsz mengutus Gubernur Sulawesi untuk memimpin penangkapannya. Sejak kematiannya, Tiku menjadi simbol pemberontakan Toraja.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Sultan_Hasanuddin -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Sultan_Hasanuddin">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi_Selatan"/>
+        <foaf:givenName>Muhammad Bakir I Mallombasi Daeng Mattawang Karaeng Bonto Mangape</foaf:givenName>
+        <foaf:nick>De Haantjes van Het Osten oleh Belanda yang artinya Ayam Jantan dari Timur</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Gowa, Sulawesi Selatan, 12 Januari 1631</dbp:birthDate>
+        <dc:dateAccepted>6 November 1973</dc:dateAccepted>
+        <dbp:deathDate>di Gowa, Sulawesi Selatan, 12 Juni 1670</dbp:deathDate>
+        <dc:description>Sultan Hasanuddin, merupakan putera dari Raja Gowa ke-15, I Manuntungi Daeng Mattola Karaeng Lakiyung Sultan Muhammad Said. Sultan Hasanuddin memerintah Kerajaan Gowa mulai tahun 1653 sampai 1669. Kerajaan Gowa adalah merupakan kerajaan besar di Wilayah Timur Indonesia yang menguasai jalur perdagangan. Sultan Hasanuddin pernah mengucapkan kepada Kompeni “marilah berniaga bersama-sama, mengadu untuk dengan serba kegiatan”. Tetapi Kompeni tidak mau, sebab dia telah melihat besarnya keuntungan di negeri ini, sedang Sultan Hasanuddin memandang bahwa cara yang demikian itu adalah kezaliman. Pada tahun 1660, VOC Belanda menyerang Makassar, tetapi belum berhasil menundukkan Kerajaan Gowa. Tahun 1667, VOC Belanda di bawah pimpinan Cornelis Speelman beserta sekutunya kembali menyerang Makassar. Pertempuran berlangsung di mana-mana, hingga pada akhirnya Kerajaan Gowa terdesak dan semakin lemah, sehingga dengan sangat terpaksa Sultan Hasanuddin menandatangani Perjanjian Bungaya pada tanggal 18 November 1667 di Bungaya. Gowa yang merasa dirugikan, mengadakan perlawanan lagi. Pertempuran kembali pecah pada Tahun 1669. Kompeni berhasil menguasai benteng terkuat Gowa yaitu Benteng Sombaopu pada tanggal 24 Juni 1669.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Himayatuddin_Muhammad_Saidi -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Himayatuddin_Muhammad_Saidi">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Sulawesi_Tenggara"/>
+        <foaf:givenName>La Karambau</foaf:givenName>
+        <foaf:nick>Himayatuddin Muhammad Saidi / Oputa Yi Koo</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Pulau Buton, Kesultanan Buton</dbp:birthDate>
+        <dc:dateAccepted>7 November 2019</dc:dateAccepted>
+        <dbp:deathDate>Siontapina, Kesultanan Buton, 1766</dbp:deathDate>
+        <dc:description>La Karambau yang bergelar Sultan Himayatuddin Muhammad Saidi atau Oputa Yi Koo adalah seorang Sultan Buton ke-20 pada 1752-1755 dan ke-23 pada 1760-1763. Ia giat bergerilya melawan menentang pemerintahan Hindia Belanda dalam Perang Buton. Sejak 1755, tidak lama setelah Perang Buton, Sultan Himayatuddin menetap di Siontapina hingga meninggal pada 1766. Sultan Himayatuddin dimakamkan di puncak gunung Siontanipa. Pada 11 November 2019, ia menjadi salah satu dari 6 orang yang diangkat menjadi Pahlawan Nasional Indonesia.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Martha_Christina_Tiahahu -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Martha_Christina_Tiahahu">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Maluku"/>
+        <foaf:givenName>Martha Christina Tiahahu</foaf:givenName>
+        <foaf:nick>Martha Christina Tiahahu</foaf:nick>
+        <foaf:gender>Perempuan</foaf:gender>
+        <dbp:birthDate>Nusa Laut, Maluku, d Januari 1800</dbp:birthDate>
+        <dc:dateAccepted>20 Mei 1969</dc:dateAccepted>
+        <dbp:deathDate>laut Banda, Maluku, 2 Januari 1818</dbp:deathDate>
+        <dc:description>Martha Christina Tiahahu adalah seorang gadis dari Desa Abubu di Pulau Nusa Laut. Martha Christina Tiahahu tercatat sebagai seorang pejuang kemerdekaan yang unik yaitu seorang putri remaja yang langsung terjun dalam medan pertempuran melawan tentara kolonial Belanda dalam Perang Pattimura tahun 1817. Di kalangan para pejuang dan masyarakat sampai di kalangan musuh, ia dikenal sebagai gadis pemberani dan konsekuen terhadap cita-cita perjuangannya. Sejak awal perjuangan, ia selalu ikut mengambil bagian dan pantang mundur. Dengan rambutnya yang panjang terurai ke belakang serta berikat kepala sehelai kain berang (merah) ia tetap mendampingi ayahnya dalam setiap pertempuran baik di Pulau Nusa Laut maupun di Pulau Saparua. Siang dan malam ia selalu ikut hadir dan ikut dalam pembuatan kubu-kubu pertahanan. Ia bukan saja mengangkat senjata, tetapi juga memberi semangat kepada kaum wanita di negeri-negeri agar ikut membantu kaum pria di setiap medan pertempuran sehingga Belanda kewalahan menghadapi kaum wanita yang ikut berjuang.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Pattimura -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Pattimura">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Maluku"/>
+        <foaf:givenName>Thomas Matulessy</foaf:givenName>
+        <foaf:nick>Kapitan Pattimura</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Haria, pulau Saparua, Maluku, 8 Juni 1783</dbp:birthDate>
+        <dc:dateAccepted>6 November 1973</dc:dateAccepted>
+        <dbp:deathDate>Ambon, Maluku, 16 Desember 1817</dbp:deathDate>
+        <dc:description>Thomas Matulessy, juga dikenal dengan nama Kapitan Pattimura, atau Pattimura adalah Pahlawan nasional Indonesia dari Maluku. Sebagai panglima perang, Kapitan Pattimura mengatur strategi perang bersama pembantunya. Sebagai pemimpin dia berhasil mengkoordinir raja-raja patih dalam melaksanakan kegiatan pemerintahan, memimpin rakyat, mengatur pendidikan, menyediakan pangan dan membangun benteng-benteng pertahanan. Kewibawaannya dalam kepemimpinan diakui luas oleh para raja patih maupun rakyat biasa. Dalam perjuangan menentang Belanda ia juga menggalang persatuan dengan kerajaan Ternate dan Tidore, raja-raja di Bali, Sulawesi dan Jawa. Perang Pattimura yang berskala nasional itu dihadapi Belanda dengan kekuatan militer yang besar dan kuat dengan mengirimkan sendiri Laksamana Buykes, salah seorang Komisaris Jenderal untuk menghadapi Patimura. Pertempuran-pertempuran yang hebat melawan angkatan perang Belanda di darat dan di laut dikoordinasi Kapitan Pattimura yang dibantu oleh para penglimanya antara lain Melchior Kesaulya, Anthoni Rebook, Philip Latumahina dan Ulupaha. Pertempuran yang menghancurkan pasukan Belanda tercatat seperti perebutan benteng Belanda Duurstede di Saparua, pertempuran di pantai Waisisil dan jasirah Hatawano, Ouw- Ullath, Jazirah Hitu di Pulau Ambon dan Seram Selatan. Perang Pattimura hanya dapat dihentikan dengan politik adu domba, tipu muslihat dan bumi hangus oleh Belanda.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Baabullah -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Baabullah">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Maluku_Utara"/>
+        <foaf:givenName>Babullah</foaf:givenName>
+        <foaf:nick>Sultan Baabullah</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>10 Februari 1528(?)</dbp:birthDate>
+        <dc:dateAccepted>10 November 2020</dc:dateAccepted>
+        <dbp:deathDate>Juli 1583</dbp:deathDate>
+        <dc:description>Sultan Baabullah merupakan sultan ke-7 dan penguasa ke-24 Kesultanan Ternate di Maluku Utara yang memerintah antara tahun 1570 dan 1583. Ia dianggap sebagai sultan teragung dalam sejarah Ternate dan Maluku karena keberhasilannya mengusir penjajah Portugis dari Ternate dan membawa kesultanan tersebut kepada puncak kejayaannya di akhir abad ke-16. Sultan Baabullah juga dikenali dengan gelar "Penguasa 72 Pulau", berdasarkan wilayah kekuasaanya di Indonesia Timur, yang mencakup sebagian besar Kepulauan Maluku, Sangihe, dan sebagian dari Sulawesi. Pengaruh Ternate pada masa kepemimpinannya bahkan mampu menjangkau Solor (Lamaholot), Bima (Sumbawa bagian Timur), Mindanao, dan Raja Ampat. Peran Maluku dalam jaringan niaga Asia meningkat secara signifikan karena perdagangan bebas hasil rempah dan hutan maluku pada masa pemerintahannya.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Nuku_Muhammad_Amiruddin -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Nuku_Muhammad_Amiruddin">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Maluku_Utara"/>
+        <foaf:givenName>Kaicil Syaifuddin</foaf:givenName>
+        <foaf:nick>Sultan Nuku</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Soasiu, Tidore, 1738</dbp:birthDate>
+        <dc:dateAccepted>7 Agustus 1995</dc:dateAccepted>
+        <dbp:deathDate>Tidore, 14 November 1805</dbp:deathDate>
+        <dc:description>Muhammad Amiruddin atau lebih dikenal dengan nama Sultan Nuku adalah seorang sultan dari Kesultanan Tidore yang dinobatkan pada tanggal 13 April 1779, dengan gelar “Sri Paduka Maha Tuan Sultan Saidul Jehad el Ma’bus Amiruddin Syah Kaicil Paparangan” [1] Selama masa perang dengan VOC, Nuku disebut juga sebagai Jou Barakati, artinya Tuan Yang Diberkahi. Perlawanan Nuku Muhammad Amiruddin diawali ketika ia dan adiknya Kamaluddin menentang pengangkatan Kaicil Gay Jira oleh Belanda sebagai Sultan Tidore. Sebagai bentuk perlawanan, Nuku Muhammad Amiruddin pun menggalang kekuatan untuk melawan kompeni Belanda. Sebagai seorang keturunan Raja Tidore, ia menjadi seorang pejuang yang tidak bisa diajak kompromi dan pengaruhnya yang kuat di wilayah Maluku. Hingga usia senja, semangat dan perjuangannya tidak berhenti. Sultan Nuku sulit ditaklukan, ia bertempur melawan Belanda di darat maupun di laut. Untuk menghadapi Belanda, Sultan Nuku meniru siasat devide et impera yang sering digunakan oleh Belanda. Sultan Nuku menghasut orang-orang Inggris agar mengusir orang-orang Belanda, yang setelah berhasil segera digempurnya. Pasukan Nuku semakin kuat setelah mendapat berbagai perlengkapan perang dari Inggris dan memenangkan banyak pertempuran melawan Belanda. Pada tahun 1796, pasukan Nuku berhasil merebut dan menguasai Pulau Banda. Setahun kemudian, mereka mampu merebut Tidore dan membuat Sultan Kamaluddin melarikan diri ke Ternate. Sepeninggal Sultan Kamaluddin, rakyat Tidore secara bulat menunjuk Nuku Muhammad Amiruddin menjadi sultan Tidore. Sultan Nuku terus menggempur kekuatan Belanda di Ternate hingga tahun 1801 Ternate dapat dibebaskan dari cengkraman Belanda.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Silas_Papare -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Silas_Papare">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Papua"/>
+        <foaf:givenName>Silas Papare </foaf:givenName>
+        <foaf:nick>Silas Papare </foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Serui, Papua, 18 Desember 1918</dbp:birthDate>
+        <dc:dateAccepted>14 September 1993</dc:dateAccepted>
+        <dbp:deathDate>Serui, Papua, 7 Maret 1979</dbp:deathDate>
+        <dc:description>Silas Papare adalah seorang pejuang penyatuan Irian Jaya (Papua) ke dalam wilayah Indonesia. Ia adalah seorang pahlawan nasional Indonesia. Pada tahun 1944, ia direkrut sebagai mata-mata Amerika Serikat untuk membantu perlawanan terhadap tentara Jepang di Papua. Ia mendirikan Partai Kemerdekaan Indonesia Irian (PKII) pada November 1946. Pada tahun 1949, jumlah anggota PKII terus meningkat hingga mencapai 4.000 orang, walau PKII dinyatakan ilegal oleh Belanda dan bergerak secara diam-diam. Pada bulan Oktober 1949 di Yogyakarta, ia mendirikan Badan Perjuangan Irian di Yogyakarta dalam rangka membantu pemerintah Republik Indonesia untuk memasukkan wilayah Irian Barat ke dalam wilayah RI. Silas Papare yang ketika itu aktif dalam Front Nasional Pembebasan Irian Barat (FNPIB) juga diminta oleh Presiden Soekarno menjadi salah seorang delegasi Indonesia dalam Perjanjian New York yang ditandatangani pada 15 Agustus 1962, yang mengakhiri konfrontasi Indonesia dengan Belanda perihal Irian Barat. Setelah penyatuan Irian Barat, ia kemudian diangkat menjadi anggota MPRS. Berkat perjuangan dan jasa-jasanya tersebut dalam mengusahakan Irian Jaya masuk kedalam NKRI dan membantu mengusir penjajah maka pemerintah Indonesia menganugrahkan gelar Pahlawan Nasional pada tanggal 14 September 1993 dengan Keppres No.77/TK/1993.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Frans_Kaisiepo -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Frans_Kaisiepo">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Papua"/>
+        <foaf:givenName>Frans Kaisiepo</foaf:givenName>
+        <foaf:nick>Frans Kaisiepo</foaf:nick>
+        <foaf:gender>laki-laki</foaf:gender>
+        <dbp:birthDate>Wardo, Biak, Papua, 10 Oktober 1921</dbp:birthDate>
+        <dc:dateAccepted>14 September 1993</dc:dateAccepted>
+        <dbp:deathDate>Jayapura, Papua, 10 April 1979</dbp:deathDate>
+        <dc:description>Frans Kaisiepo adalah seorang politikus Papua dan nasionalis Indonesia. Ia menjabat sebagai Gubernur Provinsi Papua keempat. Pada tahun 1993, berdasarkan Keputusan Presiden nomor 077/TK/1993 Frans secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia atas usahanya seumur hidup untuk mempersatukan Irian Barat dengan Indonesia. Sebagai wakil Provinsi Papua, ia terlibat dalam Konferensi Malino, dimana pembentukan Republik Indonesia Serikat dibuat.</dc:description>
+    </owl:Class>
+
+<!-- https://id.m.wikipedia.org/wiki/Machmud_Singgirei_Rumagesan -->
+
+    <owl:Class rdf:about="https://id.m.wikipedia.org/wiki/Machmud_Singgirei_Rumagesan">
+        <rdfs:subClassOf rdf:resource="https://id.m.wikipedia.org/wiki/Papua_Barat"/>
+        <foaf:givenName>Machmud Singgirei Rumagesan</foaf:givenName>
+        <foaf:nick>Raja Al-Alam Ugar Sekar</foaf:nick>
+        <foaf:gender>Laki-laki</foaf:gender>
+        <dbp:birthDate>Kokas, Fakfak, Papua Barat, 27 Desember 1885</dbp:birthDate>
+        <dc:dateAccepted>10 November 2020</dc:dateAccepted>
+        <dbp:deathDate>Jakarta, 5 Juli 1964</dbp:deathDate>
+        <dc:description>Machmud Singgirei Rumagesan adalah seorang pejuang asal Papua. Anak dari rajamuda bernama Pipi, sebetulnya secara keturunan Pipi bukan seorang berdarah biru. Namun hanya seorang anak angkat dari raja sebelumnya yang bernama Pandai. Karena saat itu terjadi kekosongan kekuasaan, maka Pipi sementara menjadi rajamuda. Lantas digantikan oleh Machmud Singgirei Rumagesan karena adanya campur tangan kolonial Belanda. Tapi, meskipun ia diangkat oleh pemerintah kolonial pada waktu itu, ia masih berani menentang ketidakadilan demi rakyatnya. Machmud Singgirei Rumagesan merupakan seorang Raja di wilayah Sekar yang bergelar Raja Al-Alam Ugar Sekar. Dalam rangka melawan Belanda, ia mendirikan Gerakan Tjendrawasih Revolusioner Irian Barat (GTRIB).</dc:description>
+    </owl:Class>
+</rdf:RDF>
